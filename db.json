@@ -1,5 +1,5 @@
 { 
-    "medicamentosInjetáveis" : [ 
+    "medicamentosInjetaveis" : [ 
         {
         "id":1,
         "nome":"Dobutamina",
@@ -30,7 +30,7 @@
     }
     ],
 
-    "medicamentosTópicos": [
+    "medicamentosTopicos": [
     {
         "id":1,
         "nome":"Lidocaína",
