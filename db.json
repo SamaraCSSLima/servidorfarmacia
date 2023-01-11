@@ -1,0 +1,94 @@
+{ 
+    "medicamentosInjetáveis" : [ 
+        {
+        "id":1,
+        "nome":"Dobutamina",
+        "aplicação": "Intravenosa direto ou infusão intravenosa",
+        "laboratório": "Hipolabor",
+        "preço": 29.30
+    },
+    {
+        "id":2,
+        "nome":"Epinefrina",
+        "aplicação": "Subcutânea ou intramuscular",
+        "laboratório": "Hipolabor",
+        "preço": 2.19
+    },
+    {
+        "id":3,
+        "nome":"Heparina",
+        "aplicação": "Intravenosa direto, infusão intravenosa ou subcutânea",
+        "laboratório": "Cristália",
+        "preço": 59.49
+    },
+    {
+        "id":4,
+        "nome":"Metilprednisolona",
+        "aplicação": "Intramuscular ou intravenosa",
+        "laboratório": "Fresenius Kabi",
+        "preço": 65.00
+    }
+    ],
+
+    "medicamentosTópicos": [
+    {
+        "id":1,
+        "nome":"Lidocaína",
+        "aplicação": "Tópico",
+        "laboratório": "Pharlab",
+        "preço": 10.99
+    },
+    {
+        "id":2,
+        "nome":"Cetoconazol",
+        "aplicação": "Tópico",
+        "laboratório": "EMS",
+        "preço": 7.39
+    },
+    {
+        "id":3,
+        "nome":"Gliconato de clorexidina",
+        "aplicação": "Tópico",
+        "laboratório": "Needs",
+        "preço": 7.79
+    },
+    {
+        "id":4,
+        "nome":"Metronidazol",
+        "aplicação": "Tópico",
+        "laboratório": "Galderma",
+        "preço": 71.47
+    }
+    ],
+
+    "medicamentosOrais" : [
+        {
+            "id":1,
+            "nome":"Dipirona",
+            "aplicação": "Oral",
+            "laboratório": "EMS",
+            "preço": 4.89
+    },
+    {
+        "id":2,
+        "nome":"Bicalutamida",
+        "aplicação": "Oral",
+        "laboratório": "Eurofarma",
+        "preço": 474.05
+    },
+    {
+        "id":3,
+        "nome":"Doril enxaqueca",
+        "aplicação": "Oral",
+        "laboratório": "Cosmed",
+        "preço": 17.40
+     },
+    {
+        "id":4,
+        "nome":"Deocil",
+        "aplicação": "Sublingual",
+        "laboratório": "Diffucap",
+        "preço": 33.99
+     }
+    ]
+}
